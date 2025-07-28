@@ -2,4 +2,4 @@
 
 _An online 'book' that informs the reader about the parts of the animal cell, their function, and their importance._
 
-Access at https://sshaik08.github.io/CellBookProj/
+Access at https://sshaik08.github.io/cellbookproject/
